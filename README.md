@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Pratap</h1>
 <h3 align="center">A red team member - I4C(Beginner)</h3>
 
-<img align="right" alt="coding" width="400" src="https://ethiack.com/hubfs/city-min.gif?width=914&height=1134&name=city-min.gif">
+<img align="right" alt="coding" width="350" src="https://ethiack.com/hubfs/city-min.gif?width=914&height=1134&name=city-min.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayu-python&label=Profile%20views&color=0e75b6&style=flat" alt="abhayu-python" /> </p>
